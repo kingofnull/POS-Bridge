@@ -1,0 +1,96 @@
+
+Log Entry : 5:58:04 PM Saturday, May 28, 2016
+  : Com Port 1 Can not Be Openned.
+-------------------------------
+
+Log Entry : 5:58:04 PM Saturday, May 28, 2016
+  : The port 'COM1' does not exist.
+-------------------------------
+
+Log Entry : 6:03:34 PM Saturday, May 28, 2016
+  : Com Port 1 Can not Be Openned.
+-------------------------------
+
+Log Entry : 6:03:34 PM Saturday, May 28, 2016
+  : The port 'COM1' does not exist.
+-------------------------------
+
+Log Entry : 6:08:14 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:08:16 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
+
+Log Entry : 6:09:38 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:09:40 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
+
+Log Entry : 6:11:43 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:11:45 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
+
+Log Entry : 6:11:47 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:11:49 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
+
+Log Entry : 6:12:11 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:12:14 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
+
+Log Entry : 6:12:33 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:12:34 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
+
+Log Entry : 6:12:58 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:13:00 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
+
+Log Entry : 6:13:00 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:13:02 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
+
+Log Entry : 6:13:02 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:13:02 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
+
+Log Entry : 6:13:06 PM Saturday, May 28, 2016
+  : Open Port COM1
+-------------------------------
+
+Log Entry : 6:13:08 PM Saturday, May 28, 2016
+  : خطا در پرداخت:لغو درخواست.
+-------------------------------
