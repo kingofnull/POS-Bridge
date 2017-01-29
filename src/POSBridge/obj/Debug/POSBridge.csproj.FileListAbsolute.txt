@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\bin\Debug\config.xml
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\bin\Debug\MahyapardazPOS.exe.config
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\bin\Debug\MahyapardazPOS.exe
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\bin\Debug\MahyapardazPOS.pdb
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\bin\Debug\Intek.PcPosLibrary.dll
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\obj\Debug\POSBridge.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\obj\Debug\MahyapardazPOS.ProjectInstaller.resources
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\obj\Debug\MahyapardazPOS.Properties.Resources.resources
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\obj\Debug\POSBridge.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\obj\Debug\MahyapardazPOS.exe
+C:\Users\user\Desktop\POS-Bridge _Docs\MahyapardazPOS\obj\Debug\MahyapardazPOS.pdb
